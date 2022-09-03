@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/chungchunon-homepage/static/js/main.17f5840d.js",
+    "main.js": "/chungchunon-homepage/static/js/main.ad073e7f.js",
     "static/media/likecomment.png": "/chungchunon-homepage/static/media/likecomment.8ae453db6a69f03caaad.png",
     "static/media/ch_icon.jpg": "/chungchunon-homepage/static/media/ch_icon.6b90bb897882a8f4a032.jpg",
     "static/media/routine.png": "/chungchunon-homepage/static/media/routine.c1e2de3de248e3228f4e.png",
@@ -8,9 +8,9 @@
     "static/media/rank.png": "/chungchunon-homepage/static/media/rank.e3cd8abd5bbda911a662.png",
     "static/media/intro.png": "/chungchunon-homepage/static/media/intro.11bc7746b72b475d90e1.png",
     "index.html": "/chungchunon-homepage/index.html",
-    "main.17f5840d.js.map": "/chungchunon-homepage/static/js/main.17f5840d.js.map"
+    "main.ad073e7f.js.map": "/chungchunon-homepage/static/js/main.ad073e7f.js.map"
   },
   "entrypoints": [
-    "static/js/main.17f5840d.js"
+    "static/js/main.ad073e7f.js"
   ]
 }
